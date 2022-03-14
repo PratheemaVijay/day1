@@ -8,6 +8,7 @@ public class Task1 {
 			private void cliName() {
 		System.out.println("HCL");
 		System.out.println("hcl1");
+		System.out.println("tcs");
 			}
 			public static void main(String[] args) {
 			Task1 c = new Task1();
